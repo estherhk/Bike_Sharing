@@ -31,6 +31,7 @@ Age groups in NYC and Des Moines show similar percentages, with Des Moines havin
 <img width=“500” alt=“” src="https://github.com/estherhk/Bike_Sharing/blob/master/images/age_groups.png">
 
 ## Top Riding Hours in NYC during August
+
 Top riding hours in NYC during August 2019 are between 5 PM to 7 PM.  The second highest is 7 AM - 8 AM (which may be for people commuting to work).  5 PM to 7 PM can include commuters as well as people trying to get to popular attractions, i.e. Manhattan.
 
 <img width=“500” alt=“” src="https://github.com/estherhk/Bike_Sharing/blob/master/images/peak_hours.png">
