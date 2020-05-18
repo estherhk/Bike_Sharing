@@ -37,6 +37,7 @@ Top riding hours in NYC during August 2019 are between 5 PM to 7 PM.  The second
 <img width=“500” alt=“” src="https://github.com/estherhk/Bike_Sharing/blob/master/images/peak_hours.png">
 
 ## Popular Area Attraction
+
 Manhattan is located in the top starting and ending locations.  This area restaraunts, bars, fun activities; generally, an area that would attract not just locals, but also tourists.  As Des Moines is attracting more people to move to, it can have the same outcome of movement as NYC.  Needing easier ways to transport.
 
 <img width=“500” alt=“” src="https://github.com/estherhk/Bike_Sharing/blob/master/images/popular_attractions.png">
