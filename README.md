@@ -19,6 +19,7 @@ Link to Dashboard: https://public.tableau.com/profile/esther.kim4056#!/vizhome/B
 - VS Code 
 
 ## Population in Des Moines, IA and NYC, NY
+
 In 2018, NYC population was estimated at 8,398,748 and Des Moines was estimated at 216,853.  With NYC's estimated population, CitiBike recorded 2,344,224 of subscribers and customers combined;  with that amount, 22.6% are subscribers to CitiBike.  This can suggest that it may have the same effect in Des Moines.  An article was released in 2018 called "Heartland Hotspot: Why Millennials are Flocking to Des Moines" stating millenials are moving to the capital for reasons such as career growth, affordable housing, expansion of different types of food, creative hub, and community.  With younger people flocking to Des Moines, this may prove the use of bikesharing.
 
 <img width=“500” alt=“” src="https://github.com/estherhk/Bike_Sharing/blob/master/images/population.png">
