@@ -5,6 +5,7 @@ An analysis was given to determine if starting a bikesharing business in Des Moi
 Link to Dashboard: https://public.tableau.com/profile/esther.kim4056#!/vizhome/Bikesharing_Proposal/BikesharingProposal?publish=yes 
 
 ## Resources
+
 1. Data Source:
 - Citi Bike August 2019
 - QuickFacts Des Moines, IA Census
