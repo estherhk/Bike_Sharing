@@ -50,6 +50,7 @@ NY has 26 McDonald locations which 11 of them are located in NYC and close to th
 <img width=“500” alt=“” src="https://github.com/estherhk/Bike_Sharing/blob/master/images/NYC_Mcdonalds.png">
 
 ### Des Moines McDonald's
+
 IA has 20 McDonald locations, which 11 of them are located in Des Moines.  Although NYC has a significant larger population than Des Moines, McDonald invested in having 11 locations placed in Des Moines.  Locations are also within 5 miles of each other.  Specifically, Google Maps mapped the distance between two locations as 3.5 miles with a 19 minute bike ride.
 
 <img width=“500” alt=“” src="https://github.com/estherhk/Bike_Sharing/blob/master/images/DM_Mcdonald.png">
