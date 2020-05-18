@@ -25,6 +25,7 @@ In 2018, NYC population was estimated at 8,398,748 and Des Moines was estimated 
 <img width=“500” alt=“” src="https://github.com/estherhk/Bike_Sharing/blob/master/images/population.png">
 
 ## Breakdown of Age Groups
+
 Age groups in NYC and Des Moines show similar percentages, with Des Moines having a slightly higher percentage with the younger population.  As the "Average Trip Duration" from NYC CitiBike display that the younger population has more and longer trips than the older population, this can translate that Des Moines would have more use in using bikeshare. the article "Why Des Moines workers enjoy the nation's 'least stressful' commute" explains that Des Moines companies prioritize in a healthy commute for their employees.  Having bikeshares can induce even shorter worktimes and a health factor by exercising.
 
 <img width=“500” alt=“” src="https://github.com/estherhk/Bike_Sharing/blob/master/images/age_groups.png">
