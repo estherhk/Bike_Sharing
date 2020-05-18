@@ -2,7 +2,7 @@
 # NYC Citi Bike Analysis
 An analysis was given to determine if starting a bikesharing business in Des Moines, IA is profitable.  Data from NYC CitiBike is used to compare the possible similarities and see if NYC's success will have the same effect in Des Moines. 
 
- Link to Dashboard: https://public.tableau.com/profile/esther.kim4056#!/vizhome/Bikesharing_Proposal/BikesharingProposal?publish=yes 
+Link to Dashboard: https://public.tableau.com/profile/esther.kim4056#!/vizhome/Bikesharing_Proposal/BikesharingProposal?publish=yes 
 
 ## Resources
 1. Data Source:
