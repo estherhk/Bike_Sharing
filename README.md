@@ -44,6 +44,7 @@ Manhattan is located in the top starting and ending locations.  This area restar
 
 ## McDonald's Locations
 ### NYC McDonald's
+
 NY has 26 McDonald locations which 11 of them are located in NYC and close to the top starting and ending locations.  
 
 <img width=“500” alt=“” src="https://github.com/estherhk/Bike_Sharing/blob/master/images/NYC_Mcdonalds.png">
